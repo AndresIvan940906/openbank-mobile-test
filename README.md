@@ -1,6 +1,6 @@
 # Openbank-Mobile-Test / Marvel API Implementation
 App to show Information about Marvel Characters (Character list, detail, comics Etc)
-
+** The project has implemented the Libraries using Swift Package Manager. ensure those packages are already fetched before building the project
 ## Items Implemented
 - Frameworks and Libraries (Eg. Alamofire)
 - Error handling
